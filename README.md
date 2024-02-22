@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Empress Education Logo" width="220px">
-<h1 align="center">Empress Education</h1>
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80"><h1 align="center">Empress Education</h1>
 <p align="center">
 Your Comprehensive, User-Friendly Education Management System.
 <br />
